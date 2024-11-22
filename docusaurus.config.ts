@@ -136,6 +136,7 @@ const config: Config = {
             {
               label: 'This source code',
               href: 'https://github.com/anoburn/docu-cicd-teach4',
+            },
           ],
         },
       ],

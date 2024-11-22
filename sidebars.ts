@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
     'docusaurus_intro',
     {
       type: 'category',
-      label: 'Tutorial',
+      label: 'Tutorial - manual',
       items: ['tutorial-basics/create-a-document'],
     },
     'hello',

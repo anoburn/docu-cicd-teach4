@@ -133,6 +133,9 @@ const config: Config = {
               label: 'TEACH 4',
               href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
+            {
+              label: 'This source code',
+              href: 'https://github.com/anoburn/docu-cicd-teach4',
           ],
         },
       ],
